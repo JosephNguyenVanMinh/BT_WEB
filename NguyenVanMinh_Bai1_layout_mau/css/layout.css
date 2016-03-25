@@ -1,0 +1,74 @@
+#container
+{
+	 margin:auto;	 
+	 width:895px;
+	 background:red;
+	 min-height:50px;
+}
+
+header
+{
+	min-height:133px;
+	background:#aaff11;
+}
+
+nav
+{
+   	min-height:50px;
+	background:#aa4411;
+}
+
+#content
+{
+	min-height:360px;
+	background:green;
+}
+.recycle
+{
+	padding:15px 10px;
+	margin:10px 15px;
+	min-height:310px;
+	background:#ff50ff; 
+	width:200px;
+	float:left;
+	box-sizing:border-box;
+}
+.services
+{
+	padding:15px 10px;
+	min-height:310px;
+	background:#1050ff; 
+	margin:10px 15px;
+	width:250px;
+	float:left;
+	box-sizing:border-box;
+}
+
+.company
+{
+	padding:15px 10px;
+	margin:10px 15px;
+	min-height:310px;
+	background:silver; 
+	width:250px;
+	float:left;
+	box-sizing:border-box;
+}
+
+footer
+{
+	clear:both;
+	min-height:60px;
+	background:#11f4aa; 
+}
+
+
+
+
+
+
+
+
+
+
+
